@@ -27,8 +27,5 @@ beautifulsoup4==4.10.0
 # API Requests
 requests==2.26.0
 
-# Data Serialization
-json==2.0.9
-
 # Environment Variables
 python-dotenv==0.19.1
